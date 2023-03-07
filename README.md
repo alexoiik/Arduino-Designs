@@ -9,12 +9,12 @@ A Temperature Measurement System created with Arduino Uno on Tinkercad and progr
 
 Also, if the user wishes, he can press the button to take a new temperature measurement and then the color of the led will be updated accordingly.
 
-[*Show and simulate project*](https://www.tinkercad.com/things/buszeW0GWXb?sharecode=U02xrhWSAbXkIEBhEziRUE7gKYztZnxd4qKKaQcwMdc)
+[*Show and simulate project*](https://www.tinkercad.com/things/buszeW0GWXb?sharecode=U02xrhWSAbXkIEBhEziRUE7gKYztZnxd4qKKaQcwMdc) <br>
 [*View code*](https://github.com/alexoiik/Arduino-Systems/blob/master/tms-code.cpp) <br><br>
 
 > ### 2. Modern Traffic Light System:
 #### *Description:*
 A Modern Traffic Light System created with Arduino Uno on Tinkercad and programmed with C++. The traffic light (3 LEDs) changes color every 15 seconds starting with green, then orange and finally red and this process is repeated continuously, like a normal traffic light works. An additional element is a pushbutton for the pedestrian to cross the road faster and safer. If the pedestrian presses the button the traffic light will change color from green to orange and then to red, so he can cross the road.
 
-[*Show and simulate project*](https://www.tinkercad.com/things/5jgjb5fjdpf?sharecode=cJjpwhcovMLkD_kdqfLgYvNG8Qi8-ZiaZ2qCGvka0QY)
+[*Show and simulate project*](https://www.tinkercad.com/things/5jgjb5fjdpf?sharecode=cJjpwhcovMLkD_kdqfLgYvNG8Qi8-ZiaZ2qCGvka0QY) <br>
 [*View code*](https://github.com/alexoiik/Arduino-Systems/blob/master/mtls-code.cpp)
