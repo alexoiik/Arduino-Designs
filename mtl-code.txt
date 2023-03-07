@@ -1,5 +1,5 @@
 //Modern Traffic Light System - Code
-//Created by @alexoiik (Alexandros Oikonomou)
+//Created by @alexoiik
 
 const byte interruptPin = 2;
 volatile byte Led1State = 0;
