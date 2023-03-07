@@ -1,4 +1,5 @@
 //Temprature Measurement System - Code
+//Created by @alexoiik
 
 const byte red = 11;
 const byte green = 9;
