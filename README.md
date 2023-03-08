@@ -1,6 +1,6 @@
 # Embedded-Systems-w-Arduino
 
-> ### 1. Temperature Measurement System:
+> ### 1. Temperature Measurement System
 
 ***Description:*** 
 
@@ -14,7 +14,7 @@ Also, if the user wishes, he can press the button to take a new temperature meas
 [*Show and simulate project*](https://www.tinkercad.com/things/buszeW0GWXb?sharecode=U02xrhWSAbXkIEBhEziRUE7gKYztZnxd4qKKaQcwMdc), 
 [*View code*](https://github.com/alexoiik/Arduino-Systems/blob/master/tms-code.cpp) <br><br>
 
-> ### 2. Modern Traffic Light System:
+> ### 2. Modern Traffic Light System
 
 ***Description:***
 
